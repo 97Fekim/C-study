@@ -1,2 +1,1 @@
-# C-study
-# with inflearn
+# C-study with inflearn
